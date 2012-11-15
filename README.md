@@ -1,4 +1,4 @@
-ExpressionEngine Google Webmater Tools XML Sitemap template
+ExpressionEngine Google XML Sitemap template
 ====
 
 Usage
