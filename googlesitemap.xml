@@ -8,7 +8,7 @@
 {!--Homepage--}
 {exp:channel:entries entry_id="1"}
 <url>
-  <loc>http://mymakedo.com</loc>
+  <loc>http://mywebsite.com</loc>
   <lastmod>{entry_date format='%Y-%m-%d'}</lastmod>
   <changefreq>daily</changefreq>
 </url>
